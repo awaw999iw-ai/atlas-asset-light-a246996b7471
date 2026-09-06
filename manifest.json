@@ -1,0 +1,41 @@
+{
+  "asset_id": "ASSET-LIGHT-a246996b7471",
+  "created_at_utc": "2026-09-06T00:56:30.119898+00:00",
+  "ownership": "OWNER_OWNED",
+  "transferable": true,
+  "portfolio_candidate": true,
+  "blueprint_id": "LIST_NORMALIZER",
+  "generation": 3,
+  "type": "DATA_TOOL",
+  "name": "List Normalizer",
+  "topic": "List Normalizer",
+  "status": "HYPOTHESIS",
+  "product_spec": {
+    "core_action": "clean, deduplicate, sort and normalize lists",
+    "repeat_reason": "raw lists repeatedly need deterministic cleanup",
+    "paid_extension": "saved pipelines, batch processing, API access"
+  },
+  "monetization_hypothesis": "saved pipelines, batch processing, API access",
+  "mission_fit": {
+    "owned_asset": true,
+    "requires_employment": false,
+    "requires_manual_service": false,
+    "affiliate_only": false,
+    "zero_spend_build": true,
+    "local_llm": false
+  },
+  "evidence": {
+    "real_users": 0,
+    "verified_revenue_rub": 0,
+    "strong_external_evidence": false
+  },
+  "growth": {
+    "acquisition_attempts": 0
+  },
+  "built_at_utc": "2026-09-06T00:56:30.245652+00:00",
+  "asset_path": "assets/light/ASSET-LIGHT-a246996b7471",
+  "artifact_type": "OWNED_DIGITAL_ASSET_MVP",
+  "local_llm": false,
+  "spend_rub": 0,
+  "reusable": true
+}
